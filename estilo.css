@@ -1,0 +1,151 @@
+body{
+    background-color: #304751;
+    padding: 0 100;
+}
+
+#topo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20pt;
+    color: #11a3e0;
+    text-align: center;
+    margin-top: 90px;
+
+}
+
+nav{
+    height: 50px;
+    
+}
+nav ul{
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav ul li{
+    float: left;
+    margin-right: 20px;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+nav ul li a{
+    color: #11a3e0;
+    display: block;
+    width: 80px;
+    height:  25px;
+    background-color: #000000; 
+    text-decoration: none;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+
+nav ul li a:hover{
+    color: #000000;
+    background-color: #11a3e0; 
+   
+    
+}
+#p1{
+       
+    clear: both;
+    height: 250;
+    background: #fff;
+    padding: 30 30 30 30;
+    border-radius: 30px 30px 0px 0px;
+    
+   
+}
+
+#foto01{
+    float: left;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin-right: 10px;
+    
+}
+
+
+
+#titulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #304751;
+
+}
+
+p#texto1{
+    font-size: 20px;
+    color: #000000;
+    text-align: justify;
+    display: table;
+    margin-top: 13px;
+
+}
+
+
+
+.fotos{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+
+h2{
+    margin-left: 30px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #304751;
+
+}
+
+#meio{
+
+    text-align: center;
+    height: 450px;
+    background: #fff;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    
+}
+
+
+.container-img{
+    width: 33%;
+    float: left;
+
+    
+}
+
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    color: #000000;
+    display: block;
+    padding: 10 10 10 10;
+    width: 350px;
+    margin: 0 auto;
+    
+}
+
+
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: #A9A9A9;
+    background-color:#363636;
+    text-align: center;
+    border-radius: 0px 0px 30px 30px;
+    padding: 10 30 30 30;
+      
+    
+    
+}
+
+footer p{
+    color: #ffffff;
+}
+
